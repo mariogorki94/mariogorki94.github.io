@@ -1,0 +1,269 @@
+{
+  "login": {
+    "email": "Email*",
+    "password": "Password*",
+    "sign_in": "Login",
+    "forgot_password": "Forgot password?",
+    "sign_up": "Register",
+    "enter_with": "Enter with",
+    "social": "Social",
+    "curious": "Are you curious?",
+    "test_me": "Test me",
+    "or": "or"
+  },
+  "registration": {
+    "username": "Username*",
+    "email": "Email*",
+    "password": "Password*",
+    "referral_code": "Referral Code",
+    "register": "Register"
+  },
+  "forgot_password": {
+    "hint": "Enter your e-mail to request a new password:",
+    "email": "Email*",
+    "request_password": "Request a new password"
+  },
+  "welcome": {
+    "hello": "Hello",
+    "welcome_text": "Welcome to a language`s worlddio!"
+  },
+  "ranking": {
+    "your_rank": "Your Rank",
+    "points": "Points"
+  },
+  "profile": {
+    "premium_active_to": "Premium active to {}",
+    "sections": {
+      "learning": "Learning",
+      "settings": "Settings",
+      "profile": "Profile"
+    }
+  },
+  "notifications": {
+    "new": "New",
+    "previous": "Previous"
+  },
+  "invite_friends": {
+    "description": "Invite friend description here....",
+    "instruction": "1. Instruction here...\n2. Instruction here...\n3. Instruction here...",
+    "or": "or",
+    "your_referral_code": "Your referral code:"
+  },
+  "subscriptions": {
+    "limited_offer": "Limited Offer:",
+    "time_left_info": "{}d {}h {}m",
+    "choose": "Buy Premium",
+    "info": {
+      "1": "Full access to all 270 000+ words",
+      "2": "Opportunity to obtain certificates.",
+      "3": "Learn and Play with your friends",
+      "4": "WIN Awards"
+    }
+  },
+  "preferences": {
+    "notifications": {
+      "section_title": "Notification Preferences",
+      "system": "Receive System Notifications",
+      "marketing": "Receive Marketing Notifications"
+    },
+    "email": {
+      "section_title": "Email Preferences",
+      "system": "Receive System Emails",
+      "marketing": "Receive Marketing Emails"
+    }
+  },
+  "navigation": {
+    "my_cards": "My Cards",
+    "my_favourites": "My Favourites",
+    "store": "Store",
+    "challenges": "Challenges",
+    "certificates": "Certificates",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "change_native_language": "Change Native Language",
+    "change_target_language": "Change Target Language",
+    "change_primary_email": "Change Primary Email",
+    "change_marketing_email": "Change Marketing Email",
+    "change_password": "Change Password",
+    "change_username": "Change Username",
+    "change_avatar": "Change Avatar",
+    "invite_friends": "Invite Friends",
+    "subscriptions": "Subscriptions",
+    "change_personal_details": "Change Personal Details",
+    "change_preferences": "Change Preferences",
+    "privacy_policy": "Privacy Policy",
+    "logout": "Logout",
+    "not_found": "Page Not Found"
+  },
+  "my_cards": {
+    "my_cards": "My Cards",
+    "add_with_qr": "Add with QR code",
+    "my_favourites": "My Favourites",
+    "my_favourites_words": "{} words",
+    "flash_cards": "Flash Cards",
+    "podcasts": "Podcasts",
+    "audiobooks": "Audio Books"
+  },
+  "audiobook": {
+    "language": "Language: ",
+    "flash_cards": "Flash Cards: {}",
+    "by": "By: {}",
+    "send_pdf_button": "Send to mail",
+    "flash_cards_title": "Flash Cards with the Book"
+  },
+  "podcast": {
+    "language": "Language: ",
+    "flash_cards": "Flash Cards: {}",
+    "by": "By: {}",
+    "flash_cards_title": "Flash Cards with the Podcast"
+  },
+  "flashcard": {
+    "language": "Language: ",
+    "flash_cards": "Flash Cards: {}",
+    "by": "By: {}",
+    "flash_cards_title": "Flash Cards"
+  },
+  "my_favourites": {
+    "learn_button": "Learn My Favourites"
+  },
+  "test": {
+    "finished": "Finished {}/{}",
+    "points_won": "You just won 100 Points for solving test"
+  },
+  "play_options": {
+    "tabs": {
+      "general": "General",
+      "dividers": "Dividers"
+    },
+    "lang": {
+      "title": "Learning order",
+      "phrase": "The first word to play will be {}",
+      "native": "native",
+      "target": "target",
+      "random": "random",
+      "first": "first"
+    },
+    "sleep": {
+      "title": "Sleep mode",
+      "phrase": "Worddio {} go to sleep",
+      "on": "on",
+      "off": "off",
+      "will": "will",
+      "wont": "wont"
+    },
+    "repeat": {
+      "title": "Repetition",
+      "phrase": "Repeat times changed to {}"
+    },
+    "delay": {
+      "title": "Delay between words",
+      "phrase": "The delay was changed to {} seconds"
+    },
+    "close": "Close"
+  },
+  "certificates": {
+    "download": "Download",
+    "send_to_email": "Email",
+    "share": "Share",
+    "details": {
+      "progress": "Your Progress",
+      "percent": "{}% completed",
+      "hint": "Solve the tests and get your vocabulary certificate."
+    }
+  },
+  "store": {
+    "flash_cards": "Flash Cards",
+    "audiobooks": "Audio Books",
+    "podcasts": "Podcasts",
+    "categories": "Categories",
+    "see_all": "See all",
+    "select": "Select",
+    "results": "Search Results",
+    "most_bought": "Bestsellers this week",
+    "most_viewed": "Picks of the week",
+    "most_recent": "Newest products",
+    "description": {
+      "language": "Language:",
+      "flash_cards": "Flash Cards: {}",
+      "by": "By: {}",
+      "listen_button": "Listen for {}",
+      "flash_cards_book": "Flash Cards with the Book",
+      "flash_cards_podcast": "Flash Cards with the Podcast",
+      "flash_cards_library": "Flash Cards",
+      "feedback": "Feedback",
+      "see_all": "See all",
+      "give_feedback": "Give Feedback",
+      "add_comment": "Add comment",
+      "post": "Post"
+    }
+  },
+  "challenges": {
+    "achievements": "Missions",
+    "month_game": "Month Game",
+    "last_month": "Last Month",
+    "achievements_info": {
+      "great_job": "Great Job!",
+      "great_job_info": "You`ve won some awards",
+      "oh_no": "Oh NO!",
+      "oh_no_info": "You missed your goal, try another challenge",
+      "your_progress": "Your progress",
+      "time_left": "Time left",
+      "time_left_info": "{}d {}h {}m",
+      "collect": "Collect Awards",
+      "dismiss": "Dismiss The Challenge",
+      "award": {
+        "awards": "Awards:",
+        "points": "{} Points",
+        "free_trial": "{} Days Free Access"
+      }
+    },
+    "monthly_game_info": {
+      "leaderboard": "{} Leaderboard",
+      "win": "Win",
+      "days_free_access": "{} days free access",
+      "points": "points",
+      "preliminary_results": "PRELIMINARY RESULTS",
+      "time_left": "{}d {}h {}m",
+      "winners": "Winners"
+    }
+  },
+  "change_primary_email": {
+    "hint": "Change the primary email hint\nblabla\nblabla",
+    "input_hint": "Primary Email*",
+    "change": "Change Primary Email"
+  },
+  "change_marketing_email": {
+    "hint": "Change the marketing email hint\nblabla\nblabla",
+    "input_hint": "Marketing Email*",
+    "change": "Change Marketing Email"
+  },
+  "change_username": {
+    "hint": "Change the username hint\nblabla\nblabla",
+    "input_hint": "Username*",
+    "change": "Change Username"
+  },
+  "change_password": {
+    "hint": "Change the password hint\nblabla\nblabla",
+    "input_hint": "Password*",
+    "input_repeat_hint": "Repeat Password*",
+    "change": "Change Password"
+  },
+  "main": {
+    "learn": "Learn",
+    "train": "Train",
+    "test": "Test",
+    "share": "Share",
+    "collect_and_close": "Collect and close",
+    "read_more": "Read more",
+    "read_less": "Read less",
+    "done": "Done",
+    "skip": "Skip",
+    "next": "Next"
+  },
+  "validation": {
+    "required": "The field is required",
+    "email": "The field must be a valid email address",
+    "min_length": "The field must be at least {} characters long",
+    "fields_dont_match": "The fields don`t match"
+  }
+}
